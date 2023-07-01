@@ -1,2 +1,1 @@
-My first readme update
-abcd
+i like coding.
